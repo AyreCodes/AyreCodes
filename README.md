@@ -2,7 +2,7 @@
 <br>
 
 I'm a Minecraft Enthusiast
-and I do stuff with HTML & CSS
+and I do stuff I guess
 
 <br>
 
