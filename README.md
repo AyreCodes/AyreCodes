@@ -4,6 +4,8 @@
 I'm a Minecraft Enthusiast
 and I do stuff I guess
 
+<img src="https://discord.c99.nl/widget/theme-1/736507120542941194.png"/>
+
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
