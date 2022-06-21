@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-I make YouTube videos related to Minecraft Cheating and I like to annoy players on Pay-to-Win Minecraft Servers. <br> <br> Media @ Rise Client <br>Media @ Juul Client <br> Owner @ Cherry Garden [340+]
+I make YouTube videos related to Minecraft Cheating and I like to annoy players on Pay-to-Win Minecraft Servers. <br> <br> Media @ <a href="https://riseclient.com">Rise Client</a> <br>Media @ <a href="https://www.juul.lol">Juul Client</a> <br> Owner @ <a href="https://dsc.gg/clients">Cherry Garden [340+]</a>
 <br> <br>
  <img src="https://discord.c99.nl/widget/theme-1/736507120542941194.png"/> <br>
 <img height="15" src="https://intent.store/images/intent-v3/favicon.ico"> <a href="https://intent.store">Intent Store</a> 
